@@ -1,0 +1,11 @@
+{
+    "name": "myvendor/myproject",
+    "version": "1.0.0",
+    "description": "simple library",
+    "autoload": {
+        "psr-4": {
+            "Myvendor\\Myproject\\": "src/Myvendor/Myproject/"
+        }
+    },
+    "require": {}
+}
